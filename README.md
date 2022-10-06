@@ -1,5 +1,5 @@
 # 💫About Me :
-Hi, Im python web backend programmer
+Hi, Im Jr Python Web Backend Programmer..¨knowledge does not take up space¨
 
 
 ## 🌐Socials
