@@ -6,7 +6,7 @@ Backend Developer | Django developer | Spring boot Developer
 
 Hi, Im Backend Developer..¨knowledge does not take up space¨
 
-* 🌍  I'm based in Cuba
+* 🌍  I live in Uruguay
 * 🧠  I'm learning Typescript and React JS
 * ⚡  the limit to grow only exits in the mind....Destroy it and andsee who you are
 
